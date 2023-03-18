@@ -1,0 +1,3 @@
+aws cognito-idp add-custom-attributes --region eu-west-1 --user-pool-id eu-west-1_9OYR5Fzak --custom-attributes Name="Group",AttributeDataType="String",DeveloperOnlyAttribute=false,Required=false,StringAttributeConstraints="{MinLength=1,MaxLength=25}" --profile ethanhopesa
+
+aws cognito-idp add-custom-attributes --region eu-west-1 --user-pool-id eu-west-1_9OYR5Fzak --custom-attributes Name="Region",AttributeDataType="String",DeveloperOnlyAttribute=false,Required=false,StringAttributeConstraints="{MinLength=1,MaxLength=25}" --profile ethanhopesa

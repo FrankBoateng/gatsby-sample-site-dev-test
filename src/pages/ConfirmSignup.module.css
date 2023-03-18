@@ -1,0 +1,23 @@
+.ConfirmSignup {
+
+    position: relative;
+    box-sizing: border-box;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-3xl);
+    font-family: var(--percentage);
+  }
+
+
+  .ForgotPassword {
+   
+    position: relative;
+    box-sizing: border-box;
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-3xl);
+    font-family: var(--percentage);
+  }

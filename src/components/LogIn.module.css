@@ -1,0 +1,9 @@
+.logIn {
+  position: relative;
+  box-sizing: border-box;
+  width: 100%;
+  overflow: hidden;
+  text-align: right;
+  font-size: var(--font-size-3xl);
+  font-family: var(--percentage);
+}
